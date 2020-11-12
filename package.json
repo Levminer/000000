@@ -1,0 +1,46 @@
+{
+    "name": "000000",
+    "displayName": "#000000",
+    "description": "A black Visual Studio Code theme with GitHub colors.",
+    "publisher": "Levminer",
+    "author": {
+      "name": "Levminer"
+    },
+    "version": "1.0.0",
+    "engines": {
+      "vscode": "^1.51.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Levminer/000000"
+    },
+    "bugs": {
+      "url": "https://github.com/Levminer/000000/issues"
+    },
+    "galleryBanner": {
+      "color": "#000000",
+      "theme": "dark"
+    },
+    "icon": "img/000000.png",
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "000000",
+      "#000000",
+      "dark",
+      "github",
+      "black",
+      "theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "#000000",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme0.json"
+            }
+        ]
+    }
+  }
+  
