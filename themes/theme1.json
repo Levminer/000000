@@ -28,10 +28,13 @@
 		"menu.selectionBackground": "#2C2C2E",
 		/* status bar */
 		"statusBar.background": "#1C1C1E",
+		"statusBar.noFolderBackground": "#1C1C1E",
+		"statusBar.debuggingBackground": "#1C1C1E",
 		/* top bar */
 		"titleBar.activeBackground": "#1C1C1E",
 		/* button */
 		"button.background": "#2C2C2E",
+		"button.hoverBackground": "#2C2C2E",
 		"checkbox.background": "#2C2C2E",
 		/* focus */
 		"focusBorder": "#1C1C1E",
@@ -48,7 +51,13 @@
 		"list.inactiveSelectionBackground": "#2C2C2E",
 		"tree.indentGuidesStroke": "#1C1C1E",
 		/* notification */
-		"notifications.background": "#1C1C1E"
+		"notificationCenterHeader.background": "#1C1C1E",
+		"notifications.background": "#1C1C1E",
+		/* scrollbar */
+		"scrollbarSlider.hoverBackground": "#1C1C1E",
+		"scrollbarSlider.activeBackground": "#1C1C1E",
+		"scrollbarSlider.background": "#1C1C1E"
+		
 	},
 	"tokenColors": [
 		{
