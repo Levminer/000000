@@ -3,10 +3,16 @@
 	"displayName": "#000000",
 	"description": "A black Visual Studio Code theme with GitHub colors.",
 	"publisher": "levminer",
+	"version": "1.2.0",
+	"scripts": {
+		"build": "vsce package"
+	},
+	"devDependencies": {
+		"vsce": "^1.92.0"
+	},
 	"author": {
 		"name": "Levminer"
 	},
-	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -21,7 +27,6 @@
 		"color": "#000000",
 		"theme": "dark"
 	},
-	"icon": "img/000000.png",
 	"categories": [
 		"Themes"
 	],
@@ -32,6 +37,7 @@
 		"black",
 		"theme"
 	],
+	"icon": "img/000000.png",
 	"contributes": {
 		"themes": [
 			{
