@@ -98,7 +98,20 @@
 		/* hover widget */
 		"editorHoverWidget.foreground": "#cccccc",
 		"editorHoverWidget.background": "#0A0A0A",
-		"editorHoverWidget.border": "#0A0A0A"
+		"editorHoverWidget.border": "#0A0A0A",
+		/* changed modified lines */
+		"editorGutter.modifiedBackground": "#16A3DF",
+		"editorGutter.addedBackground": "#28A443",
+		"editorGutter.deletedBackground": "#CC001B",
+		/* editor underlines */
+		"editorError.foreground": "#CC001B",
+		"editorWarning.foreground": "#F5AB00",
+		"editorInfo.foreground": "#16A3DF",
+		/* git */
+		"gitDecoration.untrackedResourceForeground": "#28A443",
+		"gitDecoration.deletedResourceForeground": "#CC001B",
+		"gitDecoration.modifiedResourceForeground": "#16A3DF",
+		"gitDecoration.ignoredResourceForeground": "#696969"
 	},
 	"tokenColors": [
 		{

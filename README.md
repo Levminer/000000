@@ -1,9 +1,11 @@
 # #000000
 
--   A black Visual Studio Code theme with GitHub syntax highlightning colors.
+-   A black Visual Studio Code theme with GitHub syntax highlighting colors.
 
 -   Repository: [Link](https://github.com/Levminer/000000)
 -   Issues: [Link](https://github.com/Levminer/000000/issues)
+
+<img src="https://raw.githubusercontent.com/Levminer/000000/main/img/screenshot.jpg?raw=true">
 
 ## Installation
 
