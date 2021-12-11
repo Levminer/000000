@@ -81,11 +81,11 @@
 		"notificationCenterHeader.background": "#0a0a0a",
 		"notifications.border": "#0a0a0a",
 		/* scrollbar */
-		"scrollbarSlider.hoverBackground": "#0A0A0A",
-		"scrollbarSlider.activeBackground": "#0A0A0A",
-		"scrollbarSlider.background": "#0A0A0A",
+		"scrollbarSlider.hoverBackground": "#323232",
+		"scrollbarSlider.activeBackground": "#323232",
+		"scrollbarSlider.background": "#282828",
 		/* terminal */
-		"panel.border": "#0A0A0A",
+		"panel.border": "#141414",
 		/* badge */
 		"badge.background": "#ffffff",
 		"badge.foreground": "#000000",

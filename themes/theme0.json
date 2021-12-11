@@ -81,15 +81,7 @@
 		},
 		{
 			"name": "Class name",
-			"scope": [
-				"entity.name.class",
-				"entity.section.ini",
-				"entity.name.section",
-				"source.ts entity.name.type",
-				"support.constant.dom.js",
-				"entity.name.type.class",
-				"entity.name.type.interface"
-			],
+			"scope": ["entity.name.class", "entity.section.ini", "entity.name.section", "source.ts entity.name.type", "support.constant.dom.js", "entity.name.type.class", "entity.name.type.interface"],
 			"settings": {
 				"foreground": "#bb97e7"
 			}
@@ -156,12 +148,7 @@
 		},
 		{
 			"name": "Property (CSS)",
-			"scope": [
-				"source.css support.type",
-				"support.constant.color",
-				"constant.codepoint-range.css",
-				"support.constant.unicode-range.prefix.css"
-			],
+			"scope": ["source.css support.type", "support.constant.color", "constant.codepoint-range.css", "support.constant.unicode-range.prefix.css"],
 			"settings": {
 				"foreground": "#66B5F6"
 			}
@@ -213,12 +200,7 @@
 		},
 		{
 			"name": "CSS property",
-			"scope": [
-				"meta.property-name.css",
-				"meta.property-value.css support",
-				"meta.property-value.css support.constant",
-				"meta.property-value.css"
-			],
+			"scope": ["meta.property-name.css", "meta.property-value.css support", "meta.property-value.css support.constant", "meta.property-value.css"],
 			"settings": {
 				"foreground": "#66B5F6"
 			}

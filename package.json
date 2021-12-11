@@ -3,12 +3,12 @@
 	"displayName": "#000000",
 	"description": "A black Visual Studio Code theme with GitHub syntax highlighting colors.",
 	"publisher": "levminer",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"scripts": {
 		"build": "vsce package"
 	},
 	"devDependencies": {
-		"vsce": "^2.3.0"
+		"vsce": "^2.5.1"
 	},
 	"author": {
 		"name": "Levminer"
