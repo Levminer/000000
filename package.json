@@ -3,12 +3,12 @@
 	"displayName": "#000000",
 	"description": "A black Visual Studio Code theme with GitHub syntax highlighting colors.",
 	"publisher": "levminer",
-	"version": "1.3.1",
+	"version": "2.0.0",
 	"scripts": {
 		"build": "vsce package"
 	},
 	"devDependencies": {
-		"vsce": "^2.5.1"
+		"@vscode/vsce": "^2.18.0"
 	},
 	"author": {
 		"name": "Levminer"
@@ -37,13 +37,23 @@
 		"black",
 		"theme"
 	],
-	"icon": "img/000000.png",
+	"icon": "images/000000.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "#000000",
+				"label": "#000000 (Default)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/theme0.json"
+				"path": "./themes/default.json"
+			},
+			{
+				"label": "#000000 (Dimmed)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dimmed.json"
+			},
+			{
+				"label": "#000000 (Light)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/light.json"
 			}
 		]
 	}

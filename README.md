@@ -2,10 +2,7 @@
 
 -   A black Visual Studio Code theme with GitHub syntax highlighting colors.
 
--   Repository: [Link](https://github.com/Levminer/000000)
--   Issues: [Link](https://github.com/Levminer/000000/issues)
-
-<img src="https://raw.githubusercontent.com/Levminer/000000/main/img/screenshot.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/Levminer/000000/main/images/screenshot.jpg?raw=true">
 
 ## Installation
 
@@ -15,11 +12,6 @@
 4. Click reload to reload your editor.
 5. Right click on settings and color theme.
 6. Choose `#000000`.
-
-## Build
-
--   Build: `npm run build`
-
-## License
+7. Optional: Enable Semantic Highlighting for more customization
 
 -   Licensed under: [MIT](https://github.com/Levminer/000000/blob/main/LICENSE.md)
